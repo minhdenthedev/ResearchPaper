@@ -17,5 +17,5 @@ classifiers = [
 ]
 license = { file = "LICENSE" }
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/minhdenthedev/ResearchPaper"
+Issues = "https://github.com/minhdenthedev/ResearchPaper/issues"
