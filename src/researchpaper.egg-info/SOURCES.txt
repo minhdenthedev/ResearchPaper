@@ -1,8 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/researchpaper/__init__.py
-src/researchpaper.egg-info/PKG-INFO
-src/researchpaper.egg-info/SOURCES.txt
-src/researchpaper.egg-info/dependency_links.txt
-src/researchpaper.egg-info/top_level.txt
